@@ -11,6 +11,7 @@ Sat Feb  4 04:44:45 EST 2012
 <enlightenment>
 building from the https://github.com/penguinrepair/intercept.git
 build the kernel with defaults, then add initramfs to Kernel/ edit initrd_list and config accordingly
+then build again with the build_kernel.sh
 
 Notes for Opus:
 <future update scheduled>
